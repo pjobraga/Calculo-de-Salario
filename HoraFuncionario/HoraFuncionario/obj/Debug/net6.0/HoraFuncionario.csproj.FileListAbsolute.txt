@@ -1,0 +1,15 @@
+C:\Users\pjobr\OneDrive\Área de Trabalho\cSharp\HoraFuncionario\HoraFuncionario\bin\Debug\net6.0\HoraFuncionario.exe
+C:\Users\pjobr\OneDrive\Área de Trabalho\cSharp\HoraFuncionario\HoraFuncionario\bin\Debug\net6.0\HoraFuncionario.deps.json
+C:\Users\pjobr\OneDrive\Área de Trabalho\cSharp\HoraFuncionario\HoraFuncionario\bin\Debug\net6.0\HoraFuncionario.runtimeconfig.json
+C:\Users\pjobr\OneDrive\Área de Trabalho\cSharp\HoraFuncionario\HoraFuncionario\bin\Debug\net6.0\HoraFuncionario.dll
+C:\Users\pjobr\OneDrive\Área de Trabalho\cSharp\HoraFuncionario\HoraFuncionario\bin\Debug\net6.0\HoraFuncionario.pdb
+C:\Users\pjobr\OneDrive\Área de Trabalho\cSharp\HoraFuncionario\HoraFuncionario\obj\Debug\net6.0\HoraFuncionario.csproj.AssemblyReference.cache
+C:\Users\pjobr\OneDrive\Área de Trabalho\cSharp\HoraFuncionario\HoraFuncionario\obj\Debug\net6.0\HoraFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjobr\OneDrive\Área de Trabalho\cSharp\HoraFuncionario\HoraFuncionario\obj\Debug\net6.0\HoraFuncionario.AssemblyInfoInputs.cache
+C:\Users\pjobr\OneDrive\Área de Trabalho\cSharp\HoraFuncionario\HoraFuncionario\obj\Debug\net6.0\HoraFuncionario.AssemblyInfo.cs
+C:\Users\pjobr\OneDrive\Área de Trabalho\cSharp\HoraFuncionario\HoraFuncionario\obj\Debug\net6.0\HoraFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\pjobr\OneDrive\Área de Trabalho\cSharp\HoraFuncionario\HoraFuncionario\obj\Debug\net6.0\HoraFuncionario.dll
+C:\Users\pjobr\OneDrive\Área de Trabalho\cSharp\HoraFuncionario\HoraFuncionario\obj\Debug\net6.0\refint\HoraFuncionario.dll
+C:\Users\pjobr\OneDrive\Área de Trabalho\cSharp\HoraFuncionario\HoraFuncionario\obj\Debug\net6.0\HoraFuncionario.pdb
+C:\Users\pjobr\OneDrive\Área de Trabalho\cSharp\HoraFuncionario\HoraFuncionario\obj\Debug\net6.0\HoraFuncionario.genruntimeconfig.cache
+C:\Users\pjobr\OneDrive\Área de Trabalho\cSharp\HoraFuncionario\HoraFuncionario\obj\Debug\net6.0\ref\HoraFuncionario.dll
